@@ -1,4 +1,4 @@
-from credit_card import CreditCard
+from credit_card_class import CreditCard
 
 # Here is something like a Database! (Credit cards will define here).
 
